@@ -1,3 +1,5 @@
+--This are the major tasks
+
 -- Task 2 
 ------------------------------------
 --DDL statement for table 'HR' database--
