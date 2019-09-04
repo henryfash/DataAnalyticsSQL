@@ -1,3 +1,5 @@
+--These are the entire tasks
+
 --Task 1
 
 -- remove any table with the name INSTRUCTOR
