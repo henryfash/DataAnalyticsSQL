@@ -100,6 +100,7 @@ select DEP_ID, NUM_EMPLOYEES, AVG_SALARY from
   ( select DEP_ID, COUNT(*) AS NUM_EMPLOYEES, AVG(SALARY) AS AVG_SALARY from EMPLOYEES group by DEP_ID)
   where NUM_EMPLOYEES < 4
 order by AVG_SALARY;
+					 
 --BONUS Query6--
 ;
 select D.DEP_NAME , E.F_NAME, E.L_NAME
