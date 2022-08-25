@@ -1,4 +1,4 @@
-# DataAnalyticsSQL
+# Data Analytics  SQL
 Databases and SQL for Data Science
-Week1:
+
 
